@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WWEShowdown</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ok">ok</string>
+    <string name="no">no</string>
+
+    <string name="facebook_app_id">121753054279284</string>
+    <string name="fb_login_protocol_scheme">fb1174424263267004</string>
+    <string name="facebook_client_token">351d1d72e54392cfe47d69ae8dc24b89</string>
+</resources>

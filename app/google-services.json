@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "643221632035",
+    "project_id": "wwe-showcase-app",
+    "storage_bucket": "wwe-showcase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643221632035:android:bae4d8f75b849145a4ad96",
+        "android_client_info": {
+          "package_name": "com.example.wweshowcaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643221632035-6pfq9c18sc8b5lkemng258b1uuj75f63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsagBvCm6LIlsKrs_HL5Myqthe7wyTD5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643221632035-6pfq9c18sc8b5lkemng258b1uuj75f63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643221632035:android:5874ac847774186ba4ad96",
+        "android_client_info": {
+          "package_name": "com.example.wweshowdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643221632035-6pfq9c18sc8b5lkemng258b1uuj75f63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsagBvCm6LIlsKrs_HL5Myqthe7wyTD5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643221632035-6pfq9c18sc8b5lkemng258b1uuj75f63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
